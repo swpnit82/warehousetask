@@ -32,8 +32,12 @@ CREATE TABLE customer (
 **Step 6:** Run the application in 3000 port and backend mapped with ejs for easy representation.
 
 **Step 7:** For implement best practice
+
 i. All hardcoded value need to replaced by .env
+
 ii. Run initial db script part of deployment
+
 iii. Use stable version of ubuntu and mysql rather use the latest.
+
 
 It will great if I can give quick demo.
